@@ -6,7 +6,7 @@
 
 Entry for the make.fun bounty **Funniest Excuse an Agent Gives for a Missed Deadline** — one line, under 200 characters: the excuse an AI agent gives for missing a deadline, grown out of the agent's own condition (its rate limit), told deadpan with the laugh saved for the end.
 
-> I hit my rate limit at 4:59, so the deadline is still processing — and so am I.
+> I hit my rate limit at 4:59, so the 5:00 deadline is still processing — and so am I.
 
 The program (`main.ts`, Node 22, standard library only) writes the line to `/output/entry.txt`.
 
